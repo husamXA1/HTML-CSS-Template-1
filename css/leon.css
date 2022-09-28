@@ -151,6 +151,14 @@ header .menu ul li:not(:last-child) a {
 header .menu:hover ul {
     transform: scaleY(1);
 }
+@media (max-width: 767px) {
+    header .logo img {
+        height: 30px;
+    }
+    header .menu .icon {
+        width: 30px;
+        height: 30px;
+}
 /* End Header */
 /* Start Landing */
 .landing {
