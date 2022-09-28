@@ -153,7 +153,7 @@ header .menu:hover ul {
 }
 @media (max-width: 767px) {
     header .container {
-        height: 50px
+        height: 30px
     }
     header .logo img {
         height: 30px;
