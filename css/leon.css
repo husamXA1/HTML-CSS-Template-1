@@ -56,7 +56,7 @@ section:nth-of-type(even) {
     font-size: 22px;
     padding: 0;
 }
-@media (max-width: 1199px) {
+@media (max-width: 767px) {
     .special-title {
         font-size: 45px;
     }
@@ -173,7 +173,7 @@ header .menu:hover ul {
     text-align: center;
     font-size: 22px;
 }
-@media (max-width: 1199px) {
+@media (max-width: 767px) {
     .landing h1 {
         font-size: 50px;
     }
@@ -261,7 +261,7 @@ header .menu:hover ul {
         display: none;
     }
 }
-@media (max-width: 1199px) {
+@media (max-width: 767px) {
     .services .container .services-grid {
         display: flex;
         flex-direction: column;
@@ -384,7 +384,7 @@ header .menu:hover ul {
     font-size: 20px;
     margin: 0;
 }
-@media (max-width: 1199px) {
+@media (max-width: 767px) {
     .contact .contact-section .text,
     .contact .contact-section .link {
         font-size: 28px;
